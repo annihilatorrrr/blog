@@ -1,0 +1,4 @@
+{
+  "buildCommand": "zola build",
+  "destination": "public"
+}
